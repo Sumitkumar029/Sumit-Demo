@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 this is my 1st line 
 
 This Test is for rebase
 
 This is a new rebase demo
 Bye for Now
+=======
+this is my 1st line
+
+New work start in Test
+>>>>>>> 65142c6aab8dd01cc3dec47220788f8a34630cab
